@@ -80,6 +80,8 @@ Using a 10-fold cross-validated gridsearch on a dataset consisting of five combi
 
 The test results show that the Logistic Regression model achieves the highest recall score with 94.92%, followed by recall scores of 91.53% for both kNearestNeighbors and Random Forest, and 88.14% for the Gaussian Naive Bayes model.
 
+Grade - 12
+
 ## Authors
 
 Frederik Strom Friborg - https://www.linkedin.com/in/frederikfriborg/
